@@ -10,4 +10,4 @@ I.Simulate the bit error probabilities, in terms of 𝑆𝑁𝑅, for the MRC, S
 II.Simulate the outage probabilities, in terms of 𝑆𝑁𝑅, for the MRC, SC, SSC,and EGC schemes with L receive antennas.<br/>
 <img src="picture/5(a)new.jpg" width="350"><br/>
 III.Simulate the bit error probability and outage probability for BPSK modulation in Rayleigh channels.<br/>
-<img src="picture/6(a).jpg" width="350">
+<img src="picture/6(a).jpg" width="350"><img src="picture/6(b).jpg" width="350">
