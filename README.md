@@ -1,4 +1,5 @@
-# SIMO-system
+SIMO-system
+---------------------------------------------------------------------------------------------
 This is the simulation of SIMO system.
 For BPSK modulation 𝑥[𝑚]∈{±√Es}.Consider an SIMO system with 𝐿 receive antennas.
 Let 𝑦𝑙[𝑚] = ℎ𝑙[𝑚]𝑥[𝑚] + 𝑤𝑙[𝑚] be the received signal at the 𝑙𝑡ℎ antenna in Rayleigh channels, 
