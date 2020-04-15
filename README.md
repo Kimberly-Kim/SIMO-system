@@ -8,3 +8,5 @@ Define 𝑆𝑁𝑅 = 𝐸𝑏⁄𝑁0.
 I.Simulate the bit error probabilities, in terms of 𝑆𝑁𝑅, for the MRC, SC, SSC, and EGC schemes with L receive antennas.
 
 II.Simulate the outage probabilities, in terms of 𝑆𝑁𝑅, for the MRC, SC, SSC,and EGC schemes with L receive antennas.
+
+III.Simulate the bit error probability and outage probability for BPSK modulation in Rayleigh channels.
